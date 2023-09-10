@@ -1,0 +1,20 @@
+.produto-item {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.produto-item p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+  
+.produto-item img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
